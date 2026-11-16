@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si usa este trabajo, cítelo como se indica abajo."
+title: "Maternidad y empleo femenino en Costa Rica. Evidencia de 2010 a 2025"
+type: software
+authors:
+  - family-names: "Atencio Arias"
+    given-names: "Joseph Aarón"
+keywords:
+  - penalización por maternidad
+  - empleo femenino
+  - estudio de eventos
+  - informalidad
+  - Costa Rica
+preferred-citation:
+  type: report
+  title: "Maternidad y empleo femenino en Costa Rica. Evidencia de 2010 a 2025"
+  authors:
+    - family-names: "Atencio Arias"
+      given-names: "Joseph Aarón"
+  year: 2026
+  month: 6
+  languages:
+    - es

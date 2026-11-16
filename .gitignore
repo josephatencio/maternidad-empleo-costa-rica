@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Microdatos del INEC; se descargan aparte (ver data/README.md)
+data/raw/inec/
+data/processed/*.parquet
+*.sav
+
+# Fuente del informe en LaTeX; se publica solo el PDF de report/
+report/latex/
